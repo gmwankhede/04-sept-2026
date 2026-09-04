@@ -1,2 +1,2 @@
- print("Hello from GitHub Actions!"
-    print "Python program executed successfully."
+ print("updated syntax python!")
+ print ( "Python program syntax update successfully.")
