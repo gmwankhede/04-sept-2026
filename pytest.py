@@ -1,2 +1,2 @@
- print("updated syntax python!")
+ print ("updated syntax python")
  print ("Python program syntax update successfully.")
